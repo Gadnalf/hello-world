@@ -1,5 +1,4 @@
 # hello-world
-I did this because the internet told me to!
+Hello, everyone!
 
-Wow, look ma! I made a branch!
-All by my lonesome, too!
+Update: This is a change that I've committed to a branch, as opposed to pushing it directly to master.
